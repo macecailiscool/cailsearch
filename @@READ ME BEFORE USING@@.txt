@@ -1,0 +1,2 @@
+To use the site as intended, you must set the zoom for the page to 175%. You can do this by pressing CTRL and + at the same time on your keyboard.
+To make custom versions, you can fork this project's source code.
